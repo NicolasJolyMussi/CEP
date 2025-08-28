@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CEP</title>
+</head>
+
+<body>
+
+    <input type="button" value="Salvar" onclick="Salvar()">
+    <input type="button" value="Carregar" onclick="BuscarAlunos()">
+
+    <div>
+        <label for="CEP">CEP:</label>
+        <input type="number" id="CEP">
+    </div>
+
+    <div>
+        <label for="Cidade">Cidade:</label>
+        <input type="text" id="Cidade">
+    </div>
+
+    <div>
+        <label for="Bairro">Bairro:</label>
+        <input type="text" id="Bairro">
+    </div>
+
+    <div>
+        <label for="Estado">Estado:</label>
+        <input type="text" id="Estado">
+    </div>
+
+    <div>
+        <label for="Rua">Rua:</label>
+        <input type="text" id="Rua">
+    </div>
+    <div>
+        <label for="Numero">Número:</label>
+        <input type="number" id="Numero">
+    </div>
+    <input type="button" value="CEP" onclick="BuscarCEP()">
+
+
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+
+    <script src="/aluno.js"></script>
+</body>
+
+</html>
