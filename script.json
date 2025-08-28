@@ -1,0 +1,41 @@
+[
+    {
+        "nome": "Nícolas",
+        "nota1Bim": 7.5,
+        "nota2Bim": 8,
+        "turma": "A",
+        "perido": "Noite",
+        "media": "7",
+        "aprovado": true
+    },
+    {
+        "nome": "NJ",
+        "nota1Bim": 7.5,
+        "nota2Bim": 8,
+        "aprovado": true
+    },
+    {
+        "nome": "Ratinho",
+        "nota1Bim" : 7.5,
+        "nota2Bim" : 8,
+        "aprovado" : true
+    },
+    {
+        "nome": "Vinho",
+        "nota1Bim" : 7.5,
+        "nota2Bim" : 8,
+        "aprovado" : true
+    },
+    {
+        "nome": "Vaca",
+        "nota1Bim" : 7.5,
+        "nota2Bim" : 8,
+        "aprovado" : true
+    },
+    {
+        "nome": "Ratinho",
+        "nota1Bim" : 7.5,
+        "nota2Bim" : 8,
+        "aprovado" : true
+    }
+]
